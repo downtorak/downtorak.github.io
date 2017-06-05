@@ -1,0 +1,10 @@
+# Site settings
+title: My Memo
+email: downtorak@gmail.com
+description: Memo Blog
+
+baseurl: ""
+github_username: downtorak
+
+# Build settings
+markdown: kramdown
