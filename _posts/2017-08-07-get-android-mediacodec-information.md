@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Android MediaCodec 정보 확인"
-date:   2017-06-14 15:00:00 +0900
+date:   2017-08-07 15:00:00 +0900
 categories: Android_Video
 ---
 
