@@ -56,6 +56,9 @@ $ ninja -C out/debug AppRTCMobile
 $ ./build/android/gradle/generate_gradle.py --output-directory $PWD/out/debug --target "//webrtc/examples:AppRTCMobile" --use-gradle-process-resources --split-projects
 ```
 
+> Note: `--use-gradle-process-resources --split-projects' 이 두 옵션의 효과가 정확히 무엇인지는 모르겠음.
+> 어쨌든 두 옵션을 빼면 모든 소스가 하나의 모듈에 몰려서 생성됨. 근데 빌드가 안됨...!?
+
 <br>
 
 #### Linux Android Studio에서 열기
@@ -107,3 +110,10 @@ package 이름에 "package"가 들어가면 안되는가봄.
 해당 버그는 M29 release 이후에 fix되었음. ([참조](https://codereview.chromium.org/2827923002))
 
 <br>
+
+#### Project Open 실패
+하다보니 어쩌다 Project를 Open하면 Gradle 위치를 못찾겠다면서 위치를 설정하는 창이 팝업.
+어거지로 `Finish`를 해보면 `Minimum supported gradle version is 3.3...` 이런 에러가 발생.
+이때 보면 일부 모듈을 로드하지 못했다는 알림이 뜨는데,
+Android Studio가 최신이 아니면 일부 모듈을 로드하지 못하는 현상이 있는 것으로 보임.
+알림 클릭해서 업데이트를 수행하고 나서 Project를 Open하면 잘 열림.
