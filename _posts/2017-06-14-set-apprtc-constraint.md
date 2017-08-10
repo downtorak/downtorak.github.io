@@ -11,7 +11,7 @@ categories: WebRTC
 ### AppRTC 소개
 AppRTC([https://appr.tc](https://appr.tc))는 Google에서 제공하는 WebRTC 기반 1:1 화상통화 사이트다.
 
-![apprtc_main]({{ site.url }}/assets/2017-06-14-set-apprtc-parameters.1.apprtc-main.jpg)
+![apprtc-main]({{ site.url }}/assets/2017-06-14-set-apprtc-constraint/01.apprtc-main.jpg)
 
 room name을 입력하고 JOIN하면 같은 room name을 입력한 사람과 화상통화를 시작한다.
 
