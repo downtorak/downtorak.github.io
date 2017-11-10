@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "WebRTC M59 소스 다운로드 및 GitLab 프로젝트 생성"
-date:   2017-06-05 16:00:00 +0900
+layout:     post
+title:      WebRTC M59 소스 다운로드 및 GitLab 프로젝트 생성
+date:       2017-06-05 16:00:00 +0900
 categories: WebRTC
+summary:    WebRTC M59 소스 다운로드 및 GitLab 프로젝트 생성 방법
 ---
 
 * content

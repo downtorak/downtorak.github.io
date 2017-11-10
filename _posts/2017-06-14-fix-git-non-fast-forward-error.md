@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Git Push 시 non-fast-forward 에러"
-date:   2017-06-14 14:34:00 +0900
+layout:     post
+title:      Git Push 시 non-fast-forward 에러
+date:       2017-06-14 14:34:00 +0900
 categories: Git
+summary:    Git Push 시 non-fast-forward 에러 대처법
 ---
 
 * content

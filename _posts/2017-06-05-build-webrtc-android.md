@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "WebRTC Android 빌드"
-date:   2017-06-05 17:34:00 +0900
+layout:     post
+title:      WebRTC Android 빌드
+date:       2017-06-05 17:34:00 +0900
 categories: WebRTC
+summary:    WebRTC Android 빌드 방법
 ---
 
 * content

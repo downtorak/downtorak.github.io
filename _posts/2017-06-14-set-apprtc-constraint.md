@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "AppRTC constraint 설정"
-date:   2017-06-14 14:44:00 +0900
+layout:     post
+title:      AppRTC constraint 설정
+date:       2017-06-14 14:44:00 +0900
 categories: WebRTC
+summary:    AppRTC에서도 해상도, 프레임율 등을 바꿀 수 있다.
 ---
 
 * content

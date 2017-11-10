@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Jekyll 사용법"
-date:   2017-08-08 15:00:00 +0900
+layout:     post
+title:      Jekyll 사용법
+date:       2017-08-08 15:00:00 +0900
 categories: Jekyll
+summary:    Jekyll 사용법
 ---
 
 * content

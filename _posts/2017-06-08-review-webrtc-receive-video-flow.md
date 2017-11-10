@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "WebRTC Receive Video Flow 분석"
-date:   2017-06-08 15:25:00 +0900
+layout:     post
+title:      WebRTC Receive Video Flow 분석
+date:       2017-06-08 15:25:00 +0900
 categories: WebRTC
+summary:    따라가보자...
 ---
 
 * content

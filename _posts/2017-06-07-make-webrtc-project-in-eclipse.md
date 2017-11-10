@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "WebRTC 소스 Eclipse에서 보기"
-date:   2017-06-07 12:51:00 +0900
+layout:     post
+title:      WebRTC 소스 Eclipse에서 보기
+date:       2017-06-07 12:51:00 +0900
 categories: WebRTC
+summary:    WebRTC 소스 Eclipse에서 보기
 ---
 
 * content
